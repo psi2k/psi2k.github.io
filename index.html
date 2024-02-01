@@ -1,7 +1,76 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Meine Empfehlungen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            text-align: center;
+            color: #333333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        .card {
+            display: flex;
+            align-items: center;
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #cccccc;
+            border-radius: 10px;
+            background-color: #ffffff;
+        }
+        .card img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            margin-right: 10px;
+        }
+        .card p {
+            font-size: 18px;
+        }
+        .card a {
+            display: inline-block;
+            padding: 5px 10px;
+            border: 1px solid #333333;
+            border-radius: 5px;
+            color: #333333;
+            text-decoration: none;
+        }
+        .card a:hover {
+            background-color: #333333;
+            color: #ffffff;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <h1>Willkommen auf meiner Webseite für Empfehlungslinks!</h1>
+    <div class="container">
+        <div class="card">
+            <img src="https://example.com/product1.jpg" alt="Product 1">
+            <div>
+                <p>Das ist Produkt 1. Es ist ein tolles Produkt, das ich sehr empfehlen kann. Es hat viele Vorteile und Funktionen, die du lieben wirst.</p>
+                <a href="https://example.com/referral1">Jetzt kaufen und 10% sparen!</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://example.com/product2.jpg" alt="Product 2">
+            <div>
+                <p>Das ist Produkt 2. Es ist ein weiteres tolles Produkt, das ich gerne empfehle. Es ist sehr nützlich und praktisch, und du wirst es nicht bereuen.</p>
+                <a href="https://example.com/referral2">Jetzt bestellen und einen Gratisartikel erhalten!</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://example.com/service1.jpg" alt="Service 1">
+            <div>
+                <p>Das ist Service 1. Es ist ein fantastischer Service, den ich dir ans Herz legen möchte. Es bietet dir viele Möglichkeiten und Vorteile, die du nutzen solltest.</p>
+                <a href="https://example.com/referral3">Jetzt anmelden und einen Monat kostenlos testen!</a>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
