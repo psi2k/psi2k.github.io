@@ -1,0 +1,154 @@
+Plutus Twitter-Räume 24. Februar
+
+1. Warum so viele KYC-Ablehnungen
+
+Jasper:
+
+Wir mussten die KYC- und AML-Prozesse im letzten Quartal und bis ins Jahr '24 hinein wirklich straffen. Wir arbeiteten 5 Jahre lang mit Solaris/Contis, als wir im August '23 zu Modulr wechselten. Dies ermöglichte eine Open-Loop-Funktionalität und die Annahme von Zahlungen von Dritten. Das führte zu einem Anstieg der Betrugsrate - der Prozentsatz der Betrugstransaktionen stieg deutlich an.
+
+Infolgedessen musste die KYC verschärft und strenger werden, um schlechte Akteure auszusortieren. Im vierten Quartal des letzten Jahres gab es einen Betrugsangriff durch bösartige Akteure, so dass wir die Dinge wirklich verschärfen mussten.
+
+Wir haben einen erfahrenen Compliance-Experten eingestellt, der im Kryptobereich gearbeitet hat (z. B. Berater von Coinbase), um dies zu unterstützen.
+
+Sie werden in diesem Jahr noch weitere Neueinstellungen sehen, wenn wir uns vorwärts bewegen und die Zeit der Compliance-Auflagen hinter uns lassen.
+
+Minyi:
+
+Wir haben hinter den Kulissen eine Menge Verbesserungen vorgenommen. Dadurch, dass wir in der KYC-Phase sehr viel strenger sind, haben wir weniger Betrugsfälle im Geschäft zu bewältigen, da wir sie bereits ausgeschlossen haben. So können wir uns auf die Funktionen usw. konzentrieren.
+
+---
+
+2. FIAT-Abhebungen & Einzahlungen von Drittanbietern
+
+Dan: Es war eine schwierige Entscheidung, sie zu stoppen. Wir mussten es für die Langlebigkeit des Geschäfts tun. Wir werden sie mit einem robusteren System mit starker Verifizierung wieder einführen.
+
+---
+
+3. Belohnungen - Emissionen
+
+Minyi:
+
+Die Emissionen sind seit den neuen Abonnements um 50 % gesunken, auch wenn sich dies erst in 45 Tagen vollständig bemerkbar machen wird. Wir haben die Einnahmen durch Preiserhöhungen verdoppelt. 91-96% der wiederkehrenden Abonnenten haben mit den neuen Preisen verlängert.
+
+---
+
+Übersetzt mit DeepL.com (kostenlose Version)
+
+
+
+4. Können wir die Daten veröffentlichen?
+
+Minyi:
+
+Das war schon immer das Ziel. Jemand in der Community hat ein gutes Tool entwickelt, um Daten auf der Blockchain zu zeigen und wir arbeiten an der Plutus-Version.
+
+---
+
+5. GPay
+
+Minyi:
+
+Es gab mehrere Herausforderungen bei der Implementierung mit Modulr, Visa und GPS (Kartenprozessor, der zwischen Visa und Modulr sitzt). Es gab ein Problem zwischen den 3 Parteien bei der Ausgabe von Token für die Plutus-Karten-BIN-Reihe. GPS und Visa müssen dies klären. Im Vereinigten Königreich waren einige erfolgreich, in der EU jedoch nicht. GPS und Visa sind dabei, dies zu untersuchen.
+
+Wie spielt Plutus eine Rolle? - Wir kommunizieren täglich, eskalieren an den Leiter der Kartenabteilung von Modulr, und dieser spricht mit GPS. Der CEO von Modulr auf höchster Ebene untersucht die Angelegenheit. Dies betrifft auch alle Modulr-Kunden in irgendeiner Weise, nicht nur Plutus.
+
+Dan:
+
+Wir haben GPay versprochen und nicht pünktlich geliefert. Es war schwer, nichts sagen zu können, da wir Einschränkungen haben, was wir von Visa, Modulr usw. sagen können. Wir mussten die Genehmigung einholen, Ihnen das heute mitzuteilen - wir haben bis jetzt den Kopf hingehalten. Das hat für uns oberste Priorität.
+
+---
+
+6. Sind die Dinge mit den Metallkarten auf dem richtigen Weg? Ist es immer noch H1?
+
+Minyi:
+
+Wir arbeiten sehr hart daran. Im Plan. Keine Änderung des Zeitplans. Wir arbeiten hart daran. E-Mail für Merch-Größen - geht in den nächsten Wochen raus.
+
+---
+
+
+Übersetzt mit DeepL.com (kostenlose Version)
+
+
+7. Warum dauert die Abbuchung von PLUs so lange, obwohl die Gebühren erhöht wurden - wann wird das Feature zur Beschleunigung kommen?
+
+Jasper:
+
+Das ist ein sehr manueller Prozess. Wir haben ein Team, das alle Auszahlungsanträge im Auge behält. Der Grund dafür ist, dass wir die Integrität des Rewards-Pools schützen wollen. Deshalb nehmen wir uns die Zeit, alle Anträge zu prüfen und sicherzustellen, dass sie legal sind. Automatisierte Ortung - es wird daran gearbeitet, die Logik ist in Arbeit. Jetzt, wo wir die Transaktionsüberwachung für Fiat aus dem Weg geräumt haben, werden wir uns auf die PLU-Prüfung konzentrieren.
+
+Dan:
+
+Wir hätten schon letztes Jahr liefern können. Aufgrund von Problemen mit Fiat-Betrug mussten wir uns jedoch darauf konzentrieren. Aber es ist eine wichtige Funktion für uns, deshalb ist es wichtig, dass wir jetzt daran arbeiten.
+
+---
+
+8. Dex/PlutusSwaps
+
+Dan:
+
+PSwap - wichtige Produktvision, um leicht konvertieren zu können - steht seit '16 im Whitepaper. Wir haben eine Finanzierung erhalten, um dies zu entwickeln. Das hat uns jedoch Millionen von Dollar gekostet, weil wir auf der Plattform Liquidität bereitstellen mussten. Um die Plattform zu verbessern, mussten wir Drittanbieter von Liquidität (einschließlich Kunden) einbeziehen, wir entwickelten ein neues Produkt für Dex. Aufgrund anderer Prioritäten kam es jedoch zu Verzögerungen.
+
+Unser Ziel ist es, dieses Jahr zu liefern - aber wenn wir es aufgrund von Verzögerungen nicht schaffen, haben wir mit Coinbase über eine Zwischenlösung gesprochen, die eine Konvertierung über Coinbase, aber innerhalb des Plutus-Systems ermöglicht.
+
+---
+
+
+9. PLU-Wert/Preis
+
+Dan:
+
+Ein sehr heikles Thema, aber als CEO müssen wir sehr vorsichtig sein. Wir bieten eine regulierte Dienstleistung an, können also nicht einfach zur Börse gehen und zurückkaufen. Wir erreichen dies, indem wir Dienstleistungen anbieten, die von der Regulierungsbehörde genehmigt werden können. Das heißt, Perk-Partner zahlen uns in PLU - und für diejenigen, die das nicht wollen oder können, haben wir ein System, mit dem wir das selbst in PLU umwandeln können, um es wieder in den Prämienpool zu stecken.
+
+In der nächsten Abrechnung werden Sie also sehen, dass PLU von Markenpartnern in den Pool zurückfließen (März/April).
+
+---
+
+10. Funktion PLU einlösen - andere Anwendungsfälle
+
+Dan: Aufgrund der vielen Rückschläge durch die Betrugsbekämpfung usw. waren wir vorsichtig mit der Ankündigung auf der Roadmap. Daher haben wir den Umfang der Roadmap reduziert, um Verzögerungen/Erwartungen usw. zu vermeiden.
+
+Neue Website in wenigen Wochen - neues Branding usw. Neue Prämienstufen - also neue Prämienstufen für Anfänger und leichterer Zugang. Auch stufenweise Belohnungen: Schaffung von Unterstufen (wir werden weiterhin das haben, was wir haben, aber auch d.h. jede PLU zusätzlich gestapelt, vielleicht zur Belohnungsobergrenze hinzufügen usw.)
+
+Wir haben die gleichen Bedenken wie Sie, aber wir können nicht immer alles sofort bekannt geben.
+
+Marktplatz für PLU: Ein Portal zur Umwandlung von PLU in Airmiles und andere Reward Points. Wir arbeiten mit Prämienpartnern usw. zusammen - eine dieser Ideen ist es, viele neue Partnerschaften zu gründen, um PLU in andere Prämienpunkte oder andere Rabatte umzuwandeln - dies wird hoffentlich dieses Jahr im Jahr 2024 kommen. Viele bekannte Marken. Die Klassifizierung der Token muss in der App erfolgen, damit sie so bleibt, wie sie ist.
+
+
+11. Auffrischung der Marke - in den nächsten Wochen
+
+Minyi:
+
+Wir tun es jetzt, denke ich. Wir haben in den letzten 6 Monaten an etwas gearbeitet, um eine verbesserte Erfahrung auf der Website und auf dem Handy usw. zu bieten. Also eine Auffrischung der Marke, um einen coolen, neuen und reiferen Look zu bekommen. Ich kann nicht zu viel mehr sagen, da Marcus die Führung hat.
+
+---
+
+12. Wachstum: Neue Märkte. Markteinführung USA
+
+Jaspis:
+
+Kryptowährungen werden sehr genau unter die Lupe genommen, insbesondere Kryptokarten. Wir haben derzeit ein NDA, aber wir werden möglicherweise in der Lage sein, US-Karten über Kanada oder S-Amerika auf den Markt zu bringen - was uns erlauben würde, uns gleichzeitig auf diese Märkte und die USA zu konzentrieren. Definitiv noch für dieses Jahr im Visier
+
+---
+
+13. Haben Sie sonst noch etwas geplant, das Sie uns mitteilen möchten?
+
+Dan:
+
+Eine öffentliche Finanzierungsrunde. Wir sind jetzt in einer guten Position, um gemeinsam mit VCs und Gemeinden in eine Finanzierungsrunde zu gehen.
+
+14. COMMUNITY Qs
+
+- **Sheba:** Die Abhebungsgebühr ist sehr hoch. Dynamische Gas-Gebühr? Dan: Wir arbeiten an etwas. Ursprünglich war geplant, L2 Polygon zu machen, aber nach einer Untersuchung wurde entschieden, dass dies nicht die beste Lösung ist. Aber wir arbeiten an etwas anderem - wir schauen uns L1 an. Dazu wird es in diesem Jahr einige Neuigkeiten geben. Es ist ein Anliegen für uns und wir arbeiten daran. Das Gefühl kann regelmäßiger geändert werden: Dan: Wir werden es in Betracht ziehen, können uns aber noch nicht festlegen.
+StarLines: App - PLU-Anzeige bei Transaktionen. Minyi: Ja, das wird wieder eingeführt. Nächste Phase bei Kartentransaktionen - also mehr Informationen zu jeder Transaktion, alle detaillierten Informationen erhalten. Auch der PLU-Betrag wird wieder angezeigt werden. Man wird auch in der Lage sein, innerhalb der App Streitigkeiten über die Transaktion anzusprechen. Eine Art Quittungsfunktion. H1 dieses Jahres.
+
+StarLines: Irgendwelche neuen Vergünstigungen im März/Sofort (AliExpress): Dan: Wir bekommen eine Menge Anfragen für Vergünstigungen. Umfrage läuft. Wird in den nächsten Wochen bestätigt werden. IE Energieversorger, Fitnessmarken usw. Yogi: Umfrage abgeschlossen. 2500 Einsendungen. Durchgearbeitet, fast fertig. In den kommenden Wochen wird die Community etwas Neues sehen.
+
+Eric: Können wir bitte PLU in der App einlösen und nicht nur MM verwenden. Dan: Aus regulatorischen Gründen können wir nicht wirklich Kundengelder halten. PLU muss aus regulatorischen Gründen außerhalb der App gehalten werden, daher können wir das zum Start nicht tun. Aber wir verstehen die Bedenken, daher suchen wir nach Möglichkeiten, dies zu tun. Solange Sie PLU nicht abheben, gehört das PLU gemäß den AGBs Plutus. Aber derzeit können wir das aufgrund der Vorschriften nicht.
+
+John: Wird es in Zukunft Community-Treffen geben? Dan: Wir lieben die Meet-ups. Das nächste wird in Europa stattfinden, vielleicht in Frankreich oder Spanien... Wir werden eine weitere Umfrage durchführen und sehen, was wir tun können, um einige zu organisieren.
+
+Wakka: Was ist der Hauptunterschied zwischen dem internen Einlösen von PLUs und Airmiles? Dan: Nicht wirklich. Solange die PLU nicht an den Kunden gesendet wird, muss sie aufgrund von Vorschriften zu Plutus gehören. Man kann sie also nicht für andere Dinge verwenden und umtauschen, solange sie in der App ist, da sie zu Plutus gehört.
+
+StarLines: Können wir ein monatliches, ausführliches Update bekommen. Fortschritte, woran gearbeitet wird usw. Minyi: Ich werde eine Offline-Diskussion darüber führen. Wir arbeiten an vielen Dingen, nicht nur an Produkten, sondern auch an geschäftlichen Dingen und internen Tools. Wenn wir nur Produktfunktionen bekannt geben, könnte es so aussehen, als ob wir nicht viel arbeiten, haha. Aber wir können offline diskutieren und sehen, was wir tun können. Dan: Es tut uns leid, dass wir in den letzten Monaten aufgrund der harten Arbeit an der Einhaltung von Vorschriften usw. nicht in der Lage waren, viele Updates zu liefern. Aber das sollte jetzt besser werden.
+
+Apollo: Könnte Plutus in Erwägung ziehen, das Produktangebot um eine Versicherung zu erweitern (vor allem nachdem Curve die eigene entfernt hat). Z.B. durch Einlösung von PLU für seine etc. Dan: Keine Pläne. Aber wenn die Leute daran interessiert sind, können wir Optionen zur Umwandlung von PLU wie beim oben genannten Airmiles-Angebot usw. prüfen.
